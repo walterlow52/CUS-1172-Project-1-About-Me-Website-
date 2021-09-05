@@ -12,7 +12,6 @@
   <h2> Programming Skills </h2>
     <li> Java- (Used Eclipse in first two semesters and continued to use it since) </li>
     <li> Python (Currently teaching myself) </li>
-    <li> SQL (Used for database management systems class in my second year of college) </li> 
-    
+    <li> SQL (Used for database management systems class in my second year of college) </li>    
 </body>  
 </html>  
