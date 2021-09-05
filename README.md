@@ -8,7 +8,7 @@
   <h1> Work Experience/Internships </h1>
   <ul> 
     <li> Volunteered at Queens Public Library (Homework Help Program) </li>
-    <h1> Programming Skills </h1>
+  <h1> Programming Skills </h1>
     <li> Java- (Used Eclipse in first two semesters and continued to use it since) </li>
     <li> Python (Currently teaching myself) </li>
     <li> SQL (Used for database management systems class in my second year of college) </li> 
