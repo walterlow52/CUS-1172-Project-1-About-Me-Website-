@@ -24,6 +24,8 @@
   <h1> Favorite website </h1>
   <ol>
     <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a>
+    <a href = "https://animedao.to/animelist/popular" target = "_blank"> Anime Website 2 </a>
+    <a href = "https://www.wcostream.com/" target = "_blank"> Anime Website 3 </a>
     
   <h1> My projects in this course </h1>
     
