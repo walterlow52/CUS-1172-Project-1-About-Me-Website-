@@ -31,7 +31,9 @@
     <li> <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a> </li>
     <p> This website provides a large amount of different animes as well as a daily schedule of new episodes and releases. </p>
     <li> <a href = "https://animedao.to/animelist/popular" target = "_blank"> Anime Website 2 </a> </li>
+    <p> This website keeps up with new episodes and releases of different animes and provides an estimated release time for each episode. </p>
     <li> <a href = "https://www.wcostream.com/" target = "_blank"> Anime Website 3 </a> </li>
+    <p> This website provides huge library of different animes and cartoons in English sub and dub. </p>
   <hr>  
   <h1> My projects in this course </h1>
   <hr>  
