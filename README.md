@@ -37,6 +37,7 @@
     <p> This website provides huge library of different animes and cartoons in English sub and dub. </p>
   <hr>  
   <h1> My projects in this course </h1>
-  <hr>  
+  <hr> 
+    For this course we will be using GitHub Repositories for you to submit your work. Moreover, for milestone one you are expected to deploy your web page projects on GitHub Pages.  The following video tutorials guide you though how to use GitHub and how to deploy your static Web Page project on GitHub pages. You are expected to become familiar with this technologies on your own pace and as needed for this course. 
 </body>  
 </html>  
