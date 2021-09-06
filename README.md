@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
@@ -44,5 +43,4 @@
   <hr>  
   <h1> My projects in this course </h1>
   <hr> 
-</body>  
  
