@@ -23,7 +23,7 @@
     
   <h1> Favorite website </h1>
   <ol>
-    <a href = "https://www2.kickassanime.ro/"> Anime Website 1 </a>
+    <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a>
     
   <h1> My projects in this course </h1>
     
