@@ -2,7 +2,7 @@
 <html>
 <head>
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
-  <img src = "downloads/img_2188" width = "500" height = "400">
+  <img src = "downloads/img_2188.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
   <h2> Major: Information Technology </h2>
 </head>
