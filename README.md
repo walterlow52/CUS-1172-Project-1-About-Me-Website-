@@ -26,7 +26,9 @@
   <hr>  
   <h1> Favorite song, film, & TV show </h1>
     <h2> Favorite Song </h2>
-    <a href = "https://www.youtube.com/watch?v=mxFstYSbBmc" target = "_blank"> DaBaby- Rockstar </a> 
+    <div id = "youtube_iframe">
+      <iframe width = "500" height = "400" src = "https://www.youtube.com/watch?v=mxFstYSbBmc" frameborder = "0" allow = "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscrren autoplay></iframe>
+    </div>
     <h2> Favorite Movie/Film </h2>
     <a href = "https://www.youtube.com/watch?v=pSq2JTE49xQ" target = "_blank"> Rush Hour </a>
     <h2> Favorite TV Show </h2>
