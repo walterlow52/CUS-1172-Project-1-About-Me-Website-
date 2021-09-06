@@ -10,10 +10,12 @@
   <ul>
     <h3> Diplomas/Degrees </h3>
     <li> High School Diploma </li>
+  </ul>
   <hr>
   <h1> Work Experience/Internships </h1>
-  </ul> 
+  <ul> 
     <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
+  </ul>
   <hr>
   <h1> Programming Skills </h1>
     <li> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </li>
