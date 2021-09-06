@@ -21,7 +21,8 @@
     <li> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </li>
     <li> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </li>   
   <hr>  
-  <h1> Interests/Hobbies </h1> 
+  <h1> Interests/Hobbies </h1>
+    <p> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
   <hr>  
   <h1> Favorite song, film, & TV show </h1>
   <hr>  
