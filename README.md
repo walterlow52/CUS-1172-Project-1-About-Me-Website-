@@ -17,9 +17,9 @@
     <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
   <hr>
   <h1> Programming Skills </h1>
-    <li> Java- (Used Eclipse in first year (2019-2020) and continued to use it since) </li>
-    <li> Python (Currently teaching myself on my free time) </li>
-    <li> SQL (Used NOSQL for database management systems class in my second year of college) </li>   
+    <li> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </li>
+    <li> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </li>
+    <li> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </li>   
   <hr>  
   <h1> Interests/Hobbies </h1> 
   <hr>  
