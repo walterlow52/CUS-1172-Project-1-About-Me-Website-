@@ -12,7 +12,7 @@
     <li> High School Diploma </li>
   <hr>
   <h1> Work Experience/Internships </h1>
-  <ul> 
+  </ul> 
     <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
   <hr>
   <h1> Programming Skills </h1>
