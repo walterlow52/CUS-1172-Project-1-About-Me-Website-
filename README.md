@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <img src = "/downloads/img_2188.jpg" width = "500" height = "400">
