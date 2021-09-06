@@ -22,6 +22,8 @@
   <h1> Favorite song, film, & TV show </h1>
     
   <h1> Favorite website </h1>
+  <ol>
+    <a href = "https://www2.kickassanime.ro/"> Anime Website 1 </a>
     
   <h1> My projects in this course </h1>
     
