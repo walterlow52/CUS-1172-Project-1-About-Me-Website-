@@ -28,9 +28,9 @@
     <h2> Favorite Song </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h2> Favorite Movie/Film </h2>
-    <a href = "https://www.youtube.com/watch?v=pSq2JTE49xQ" target = "_blank"> Rush Hour </a>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pSq2JTE49xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h2> Favorite TV Show </h2>
-    <a href = "https://www.youtube.com/watch?v=IKa6aPyC-U4" target = "_blank"> Impractical Jokers </a>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <hr>  
   <h1> Favorite website </h1>
     <p> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
