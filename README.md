@@ -40,6 +40,7 @@
     <p> This website keeps up with new episodes and releases of different animes and provides an estimated release time for each episode. </p>
     <li> <a href = "https://www.wcostream.com/" target = "_blank"> Anime Website 3 </a> </li>
     <p> This website provides huge library of different animes and cartoons in English sub and dub. </p>
+  </ol>
   <hr>  
   <h1> My projects in this course </h1>
   <hr> 
