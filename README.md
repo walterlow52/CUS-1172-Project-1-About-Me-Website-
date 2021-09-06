@@ -25,6 +25,12 @@
     <p> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
   <hr>  
   <h1> Favorite song, film, & TV show </h1>
+    <h2> Favorite Song </h2>
+    <a href = "https://www.youtube.com/watch?v=mxFstYSbBmc"> DaBaby- Rockstar</a> 
+    <h2> Favorite Movie/Film </h2>
+    <a href = "https://www.youtube.com/watch?v=pSq2JTE49xQ"> Rush Hour </a>
+    <h2> Favorite TV Show </h2>
+    <a href = "https://www.youtube.com/watch?v=IKa6aPyC-U4"> Impractical Jokers </a>
   <hr>  
   <h1> Favorite website </h1>
     <p> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
