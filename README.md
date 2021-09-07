@@ -7,9 +7,10 @@
     </div>
     <div> 
       <input type = "submit" value = "submit">
+    </div>
     <ul>
-      <li> <a href = "#profile_information"> Profile Information </a> <li>
-      <li> <a href = "#education_summary"> Education </a> <li>
+      <li> <a href = "#profile_information"> Profile Information </a> </li>
+      <li> <a href = "#education_summary"> Education </a> </li>
       
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
