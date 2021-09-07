@@ -81,7 +81,7 @@
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </a> </li>
 <hr>
     <p> Rate this HTML website on a scale of 1 to 5: </p>    
-<form> 
+<form action = "Thank you for your feedback!"> 
     <div>
       <input type = "radio" id = "5" name = "five" value = "5">
       <label for = "5"> 5 </label> <br>
@@ -97,6 +97,7 @@
     <div> 
       <input type = "submit" value = "submit">
     </div>
+        </form>
 </body>
 </html>
       
