@@ -21,6 +21,7 @@
       <li> <a href = "#favorite_websites"> Favorite Websites </a> </li>
       <li> <a href = "#course_projects"> Course Projects </a> </li>  
     </ul>
+      <p>  </p>
   <div id = "profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
@@ -82,7 +83,7 @@
   </ol>
   </div>  
   <hr> 
-  <div id = "course_projects"
+  <div id = "course_projects">
   <h1> My projects in this course </h1>
   </div>  
   <hr>
