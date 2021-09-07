@@ -21,7 +21,6 @@
   <h2> Major: Information Technology </h2>
   <hr>  
   </div>
-</head>
 <body>
   <div id = "education_summary">
   <h1> Education </h1>
@@ -79,8 +78,7 @@
   <div id = "course_projects">
   <h1> My projects in this course </h1>
     <ul>
-      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </li>
-</div> 
+      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1
 <hr>
     <p> Rate this HTML website on a scale of 1 to 5: </p>    
 <form> 
@@ -99,5 +97,3 @@
     <div> 
       <input type = "submit" value = "submit">
     </div>    
-</body>
-</html>
