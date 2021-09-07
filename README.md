@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <form> 
+    <div>
+      <input type = "text" placeholder = "Type section" section = "section_field">
+    </div>  
+  </form>  
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
+  <h2> DOB: 04/15/2001 <h2>  
   <h2> Major: Information Technology </h2>
 </head>
 <body>
