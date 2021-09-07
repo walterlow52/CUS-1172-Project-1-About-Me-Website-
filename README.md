@@ -88,7 +88,7 @@
   border-collapse: collapse;
 }
             </style>
-        <table style = "width=50%">
+        <table style = "width:50%">
             <tr>
                 <td> 5 </td>
                 <td> Great </td>
