@@ -87,6 +87,14 @@
     <div>
       <input type = "radio" id = "5" name = "five" value = "5">
       <label for = "5"> 5 </label> <br>
+      <input type = "radio" id = "4" name = "four" value = "4">
+      <label for = "4"> 4 </label> <br>
+        <input type = "radio" id = "3" name = "three" value = "3">
+      <label for = "3"> 3 </label> <br>
+        <input type = "radio" id = "2" name = "two" value = "2">
+      <label for = "2"> 2 </label> <br>
+        <input type = "radio" id = "1" name = "one" value = "1">
+      <label for = "1"> 1 </label> <br>
     </div>
     <div> 
       <input type = "submit" value = "submit">
