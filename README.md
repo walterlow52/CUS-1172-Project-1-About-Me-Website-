@@ -81,7 +81,29 @@
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </a> </li>
 <hr>
-    <p> Rate this HTML website on a scale of 1 to 5: </p>    
+    <p> Rate this HTML website on a scale of 1 to 5: </p> 
+        <table>
+            <tr>
+                <td> 5 </td>
+                <td> Great </td>
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td> Good </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> OK </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> Not Good </td>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> Terrible </td>
+            </tr>
+            
 <form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png"> 
     <div>
       <input type = "radio" id = "5" name = "five" value = "5">
