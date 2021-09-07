@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <form action = > 
-    <div>
-      <input type = "text" placeholder = "Type section" section = "section_field">
-    </div>
-    <div> 
-      <input type = "submit" value = "submit">
-    </div>
-    <p>  </p>
     <h4> Section Menu </h4>
     <nav>
     <ul>
@@ -88,6 +80,16 @@
   <h1> My projects in this course </h1>
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </li>
-</div>  
+</div> 
+<hr>
+    <p> Rate this HTML website on a scale of 1 to 5: </p>    
+<form> 
+    <div>
+      <input type = "radio" id = "5" name = "five" value = "5">
+      <label for = "5"> 5 </label> <br>
+    </div>
+    <div> 
+      <input type = "submit" value = "submit">
+    </div>    
 </body>
 </html>
