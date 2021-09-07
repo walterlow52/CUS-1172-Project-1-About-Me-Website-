@@ -8,6 +8,7 @@
     <div> 
       <input type = "submit" value = "submit">
     </div>
+    <p>  </p>
     <h4> Section Menu </h4>
     <nav>
     <ul>
@@ -20,7 +21,7 @@
       <li> <a href = "favorite_websites"> Favorite Websites </a> </li>
       <li> <a href = "course_projects"> Course Projects </a> </li>  
     </ul>
-  <div id = "#profile_information">    
+  <div id = "profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
   <h2> DOB: 04/15/2001 </h2>  
@@ -28,6 +29,7 @@
   </div>
 </head>
 <body>
+  <div id = "education_summary"
   <h1> Education </h1>
   <p> For my first year in high school (2015), I started out in a high school in Florida named Cypress Creek High School where I got introduced into Information Technology which ended up being my major for St John's University. However, I transferred from that school in early 2016 and moved to New York. I continued my years of high school in High School for Construction Trades, Engineering, and Architecture. I decided to study engineering at that school where I learned computer, electrical and mechanical engineering. Once I graduated and got my diploma, I decided to go to St John's University and continue Information Technology. During my years in St John's, I've taken many IT classes like data analytics, computer programming, database management systems, systems analysis, cyber security, IT for business, and currently taking web development. </p>
   <ul>
