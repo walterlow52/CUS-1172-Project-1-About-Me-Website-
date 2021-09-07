@@ -20,7 +20,7 @@
       <li> <a href = "favorite_websites"> Favorite Websites </a> </li>
       <li> <a href = "course_projects"> Course Projects </a> </li>  
     </ul>
-  <div id = "#profileinformation">    
+  <div id = "#profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
   <h2> DOB: 04/15/2001 </h2>  
