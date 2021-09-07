@@ -80,6 +80,7 @@
   <h1> My projects in this course </h1>
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </a> </li>
+      <p> In this assignment, we created and deployed a HTML webpage based on certain requirements and deliverables. </p>  
 <hr>
     <p> Rate this HTML website on a scale of 1 to 5: </p> 
         <style>
