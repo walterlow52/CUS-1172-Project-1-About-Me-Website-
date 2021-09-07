@@ -16,11 +16,7 @@
       <p>  </p>
   <div id = "profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
-    <table>
-        <tr>
-            <th> Name </th>
-            <th> <h1> <span style = "color: red; font-weight: bold"> WALTER LOW  </span> </h1> </th>
-        </tr>
+  <h1> <span style = "color: red; font-weight: bold"> WALTER LOW  </span> </h1>
   <h2> DOB: 04/15/2001 </h2>  
   <h2> Major: Information Technology </h2>
   <hr>  
