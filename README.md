@@ -8,16 +8,23 @@
     <div> 
       <input type = "submit" value = "submit">
     </div>
+    <nav>
     <ul>
       <li> <a href = "#profile_information"> Profile Information </a> </li>
       <li> <a href = "#education_summary"> Education </a> </li>
       <li> <a href = "#work_experience"> Work Experience </a> </li>
+      <li> <a href = "#programming_skills"> Programming Skills </a> </li>
+      <li> <a href = "#interests_hobbies"> Interests/Hobbies </a> </li>
+      <li> <a href = "favorite_song_film_show"> Favorite song/film/TV show </a> </li>
+      <li> <a href = "favorite_websites"> Favorite Websites </a> </li>
+      <li> <a href = "course_projects"> Course Projects </a> </li>  
+    </ul>
   <div id = "#profileinformation">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
   <h1> WALTER LOW </h1>
   <h2> DOB: 04/15/2001 <h2>  
   <h2> Major: Information Technology </h2>
-    </div>
+  </div>
 </head>
 <body>
   <h1> Education </h1>
