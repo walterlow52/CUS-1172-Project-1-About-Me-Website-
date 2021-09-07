@@ -82,6 +82,12 @@
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> Project 1- Milestone 1 </a> </li>
 <hr>
     <p> Rate this HTML website on a scale of 1 to 5: </p> 
+        <style>
+  table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+            </style>
         <table>
             <tr>
                 <td> 5 </td>
