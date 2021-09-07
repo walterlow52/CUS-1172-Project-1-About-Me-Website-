@@ -62,7 +62,15 @@
   <div id = "favorite_song_film_show">
   <h1> Favorite song, film, & TV show </h1>
     <h2> Favorite Song </h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <table>
+    <tr>
+      <th> Description </th>
+      <th> Video </th>
+    </tr>
+    <tr>
+      <td> <p> This song is my favorite because of the message that it sends. </p> </td>
+   <td> <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+    </tr>  
   <p>  </p>
     <h2> Favorite Movie/Film </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pSq2JTE49xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
