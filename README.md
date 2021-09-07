@@ -85,6 +85,8 @@
   <hr> 
   <div id = "course_projects">
   <h1> My projects in this course </h1>
+    <ul>
+      <li> Project 1- Milestone 1 <a href = "https://walterlow52.github.io/CUS-1172-Project-1/"> </li>
   </div>  
   <hr>
 </body>
