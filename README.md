@@ -8,7 +8,7 @@
     <div> 
       <input type = "submit" value = "submit">
     </div>
-    <p> Section Menu </p>
+    <h4> Section Menu </h4>
     <nav>
     <ul>
       <li> <a href = "#profile_information"> Profile Information </a> </li>
