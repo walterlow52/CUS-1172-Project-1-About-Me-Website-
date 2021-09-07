@@ -19,7 +19,7 @@
       <li> <a href = "#interests_hobbies"> Interests/Hobbies </a> </li>
       <li> <a href = "favorite_song_film_show"> Favorite song/film/TV show </a> </li>
       <li> <a href = "favorite_websites"> Favorite Websites </a> </li>
-      <li> <a href = "course_projects"> Course Projects </a> </li>  
+      <li> <a href = "#course_projects"> Course Projects </a> </li>  
     </ul>
   <div id = "profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
