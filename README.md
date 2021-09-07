@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <h4> Section Menu </h4>
@@ -20,8 +19,7 @@
   <h2> DOB: 04/15/2001 </h2>  
   <h2> Major: Information Technology </h2>
   <hr>  
-  </div>
-        </head>      
+  </div>   
 <body>
   <div id = "education_summary">
   <h1> Education </h1>
@@ -130,6 +128,4 @@
       <input type = "submit" value = "submit">
     </div>
         </form>
-</body>
-</html>
-      
+     
