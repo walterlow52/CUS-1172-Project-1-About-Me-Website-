@@ -54,7 +54,7 @@
     <h2> Favorite Song </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
-    <h2> Favorite Movie/Film </h2>
+      <h2> <p class = "double"> Favorite Movie/Film </p> </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pSq2JTE49xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
     <h2> Favorite TV Show </h2>
