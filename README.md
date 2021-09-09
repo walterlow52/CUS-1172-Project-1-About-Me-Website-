@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <h4> Section Menu </h4>
