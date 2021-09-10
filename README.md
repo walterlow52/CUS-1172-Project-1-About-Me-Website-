@@ -49,7 +49,7 @@
       <style>
           .p1 {font-family: "Lucida Handwriting", cursive;}
       </style>    
-    <p class = ".p1"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
+    <p class = "p1"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
   </div>
   <hr>
   <div id = "favorite_song_film_show">
