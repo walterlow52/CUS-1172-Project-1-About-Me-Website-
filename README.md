@@ -31,9 +31,13 @@
   </div> 
   <hr>
   <div id = "work_experience">
+      <style>
+          h1 {text-align: center;}
+          h3 {text.align: center;}
+      </style>
   <h1> Work Experience/Internships </h1>
   <ul> 
-    <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
+      <li> <h3> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </h3> </li>
   </ul>
   </div>
   <hr>
@@ -90,9 +94,9 @@
       <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section.  </p>  
 <hr>
         <style>
-            h6 {text-decoration: underline;}
+            h4 {text-decoration: underline;}
         </style>
-        <h6> <p> Rate this HTML website on a scale of 1 to 5: </p> </h6>
+        <h4> <p> Rate this HTML website on a scale of 1 to 5: </p> </h4>
         <style>
   table, th, td {
   border: 1px solid white;
