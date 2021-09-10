@@ -45,11 +45,8 @@
   </div> 
   <hr>
   <div id = "interests_hobbies">
-  <h1> Interests/Hobbies </h1>
-      <style>
-          .p1 {font-family: "Lucida Handwriting", cursive;}
-      </style>    
-    <p class = "p1"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
+  <h1> Interests/Hobbies </h1>  
+    <p> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
   </div>
   <hr>
   <div id = "favorite_song_film_show">
@@ -84,9 +81,12 @@
   <hr>
   <div id = "course_projects">
   <h1> My projects in this course </h1>
+      <style>
+          .p1 {font-family: "Lucida Handwriting", cursive;}
+      </style>  
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
-      <p> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section.  </p>  
+      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section.  </p>  
 <hr>
     <p> Rate this HTML website on a scale of 1 to 5: </p> 
         <style>
