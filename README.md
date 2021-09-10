@@ -89,7 +89,10 @@
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
       <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section.  </p>  
 <hr>
-    <p> Rate this HTML website on a scale of 1 to 5: </p> 
+        <style>
+            h6 {text-decoration: underline;}
+        </style>
+        <h6> <p> Rate this HTML website on a scale of 1 to 5: </p> </h6>
         <style>
   table, th, td {
   border: 1px solid white;
