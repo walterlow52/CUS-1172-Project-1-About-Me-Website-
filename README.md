@@ -75,6 +75,7 @@
   </div> 
   <hr>
   <div id = "course_projects">
+      h1 { color: white; }
   <h1> My projects in this course </h1>
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
