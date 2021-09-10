@@ -63,6 +63,10 @@
   <hr>
   <div id = "favorite_websites">
   <h1> Favorite website </h1>
+      <style>
+          p.dashed {border-style: dashed;}
+          p.double {border-style: double;}
+      </style>
     <p class = "dashed"> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
   <ol>
     <li> <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a> </li>
