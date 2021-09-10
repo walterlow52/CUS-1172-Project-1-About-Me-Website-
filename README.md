@@ -67,7 +67,7 @@
           p.double {border-style: double;}
       </style>
       <style>
-          p.one {border-style: mixed; border-color: black;}
+          p.one {border-style: double; border-color: black;}
       </style>
     <p class = "one"> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
   <ol>
