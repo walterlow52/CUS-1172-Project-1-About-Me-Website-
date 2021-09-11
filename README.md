@@ -33,11 +33,10 @@
   <div id = "work_experience">
       <style>
           h1 {text-align: center;}
-          h3 {text.align: center;}
       </style>
   <h1> Work Experience/Internships </h1>
   <ul> 
-      <li> <h2> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </h2> </li>
+      <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
   </ul>
   </div>
   <hr>
