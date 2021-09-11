@@ -44,7 +44,7 @@
   <div id = "programming_skills">
   <h1> Programming Skills </h1>
       <style>
-          ul.a {list-style-type: square;}
+          ul.a { list-style-type: square; }
       </style>
     <ul class = "a">
     <li> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </li>
@@ -54,6 +54,9 @@
   </div> 
   <hr>
   <div id = "interests_hobbies">
+      <style>
+      div { color: blue; border: 10px solid currentcolor; padding: 15x; }
+      </style>    
   <h1> Interests/Hobbies </h1>  
     <p> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p>
   </div>
