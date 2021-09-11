@@ -44,7 +44,7 @@
   <div id = "programming_skills">
   <h1> Programming Skills </h1>
       <style>
-          ul.a {list-style-type: square}
+          ul.a {list-style-type: square;}
       </style>
     <ul class = "a">
     <li> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </li>
