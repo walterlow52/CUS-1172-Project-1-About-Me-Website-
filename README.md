@@ -38,7 +38,10 @@
           h1 {text-align: center;}
       </style>
   <h1> Work Experience/Internships </h1>
-  <ul> 
+      <style>
+          ul.a {list-style-type: square;}
+      </style>
+  <ul class = "a"> 
       <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
   </ul>
   </div>
