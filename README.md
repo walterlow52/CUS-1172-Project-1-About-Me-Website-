@@ -23,7 +23,6 @@
   <h2 style = "background-color:black;text-align:center"> Major: Information Technology </h2>
   <hr>  
   </div> 
-        </head>
 <body>
   <div id = "education_summary">
   <h1> Education </h1>
