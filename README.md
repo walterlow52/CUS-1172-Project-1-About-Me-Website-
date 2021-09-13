@@ -41,12 +41,14 @@
   </div>
   <hr>
   <div id = "programming_skills">
+      <style>
+      #borderimg { border: 10px solid transparent; padding: 15px; border-image: url(border.png) 30 round; }
   <h1> Programming Skills </h1>
       <style>
           ul.a { list-style-type: square; }
       </style>
     <ul class = "a">
-    <li> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </li>
+    <li> <p id = "borderimg"> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </p> </li>
     <li> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </li>
     <li> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </li>   
     </ul>
