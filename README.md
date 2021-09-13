@@ -43,6 +43,7 @@
   <div id = "programming_skills">
       <style>
       #borderimg { border: 10px solid transparent; padding: 15px; border-image: url(border.png) 30 round; }
+      </style>
   <h1> Programming Skills </h1>
       <style>
           ul.a { list-style-type: square; }
