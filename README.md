@@ -2,6 +2,9 @@
 <head>
     <h4> Section Menu </h4>
     <nav>
+    <style>
+        li {display: inline;}
+        </style>
     <ul>
       <li> <a href = "#profile_information"> Profile Information </a> </li>
       <li> <a href = "#education_summary"> Education </a> </li>
@@ -19,7 +22,8 @@
   <h2 style = "background-color:black;text-align:center"> Date of Birth: 04/15/2001 </h2>  
   <h2 style = "background-color:black;text-align:center"> Major: Information Technology </h2>
   <hr>  
-  </div>   
+  </div> 
+        </head>
 <body>
   <div id = "education_summary">
   <h1> Education </h1>
