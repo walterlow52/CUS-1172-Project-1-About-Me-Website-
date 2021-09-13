@@ -65,13 +65,13 @@
   <hr>
   <div id = "favorite_song_film_show">
   <h1> Favorite song, film, & TV show </h1>
-    <h2> Favorite Song </h2>
+    <h2 style = "color: red;"> Favorite Song </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
-      <h2> <p> Favorite Movie/Film </p> </h2>
+      <h2 style = "color: blue"> <p> Favorite Movie/Film </p> </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pSq2JTE49xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
-    <h2> Favorite TV Show </h2>
+    <h2 style = "color: white"> Favorite TV Show </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <hr>
