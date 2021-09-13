@@ -2,9 +2,6 @@
 <head>
     <h4> Section Menu </h4>
     <nav>
-        <style>
-        li {display: inline;}
-        </style>
     <ul>
       <li> <a href = "#profile_information"> Profile Information </a> </li>
       <li> <a href = "#education_summary"> Education </a> </li>
