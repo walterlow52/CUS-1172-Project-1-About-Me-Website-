@@ -58,6 +58,10 @@
   </div>
   <hr>
   <div id = "favorite_song_film_show">
+  <style>
+      h1 { background-color: white; }
+      h2 { background-color: white; }
+      </style>
   <h1> Favorite song, film, & TV show </h1>
     <h2> Favorite Song </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
