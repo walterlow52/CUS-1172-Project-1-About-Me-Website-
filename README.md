@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel = "stylesheet" href = /stylesheet/mycss_web.css">
+    <link rel = "stylesheet" href = "/stylesheet/mycss_web.css">
     <h4> Section Menu </h4>
     <nav>
     <ul>
@@ -25,7 +25,11 @@
 <body>
   <div id = "education_summary">
   <h1> Education </h1>
-  <p style = "background-color:DarkOliveGreen;"> For my first year in high school (2015), I started out in a high school in Florida named Cypress Creek High School where I got introduced into Information Technology which ended up being my major for St John's University. However, I transferred from that school in early 2016 and moved to New York. I continued my years of high school in High School for Construction Trades, Engineering, and Architecture. I decided to study engineering at that school where I learned computer, electrical and mechanical engineering. Once I graduated and got my diploma, I decided to go to St John's University and continue Information Technology. During my years in St John's, I've taken many IT classes like data analytics, computer programming, database management systems, systems analysis, cyber security, IT for business, and currently taking web development. </p>
+  <style>
+      p {outline-color: blue;}
+      p.inset {outline-style: inset;}
+  </style>
+  <p class = "inset"> For my first year in high school (2015), I started out in a high school in Florida named Cypress Creek High School where I got introduced into Information Technology which ended up being my major for St John's University. However, I transferred from that school in early 2016 and moved to New York. I continued my years of high school in High School for Construction Trades, Engineering, and Architecture. I decided to study engineering at that school where I learned computer, electrical and mechanical engineering. Once I graduated and got my diploma, I decided to go to St John's University and continue Information Technology. During my years in St John's, I've taken many IT classes like data analytics, computer programming, database management systems, systems analysis, cyber security, IT for business, and currently taking web development. </p>
   <ul>
     <h2> Diplomas/Degrees </h2>
     <li> High School Diploma </li>
@@ -46,17 +50,11 @@
   </div>
   <hr>
   <div id = "programming_skills">
-  <style>
-      p {outline-color: blue;}
-      p.outset {outline-style: outset;}
-      p.groove {outline-style: groove;}
-      p.inset {outline-style: inset;}
-      </style>
   <h1> Programming Skills </h1>
     <ul>
-    <li> <p class = "outset"> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </p> </li>
-    <li> <p class = "groove"> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </p> </li>
-    <li> <p class = "inset"> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </p> </li>   
+    <li> <p style = "background-color:blue;"> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </p> </li>
+    <li> <p style = "background-color:blue;"> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </p> </li>
+    <li> <p style = "background-color:blue;"> =  SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </p> </li>   
     </ul>
   </div> 
   <hr>
