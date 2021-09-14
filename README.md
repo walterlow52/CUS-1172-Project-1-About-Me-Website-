@@ -41,9 +41,6 @@
           h1 {text-align: center;}
       </style>
   <h1> Work Experience/Internships </h1>
-      <style>
-          ul.a {list-style-type: square;}
-      </style>
   <ul class = "a"> 
       <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
   </ul>
@@ -116,7 +113,7 @@
   border: 1px solid white;
   border-collapse: collapse;
 }
-            </style>
+   </style>
         <table style = "width:20%">
             <tr>
                 <td> 5 </td>
