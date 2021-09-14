@@ -5,13 +5,13 @@
     <h4> Section Menu </h4>
     <nav>
     <ul>
-      <li> <a href = "#profile_information"> Profile Information / </a> </li>
-      <li> <a href = "#education_summary"> Education / </a> </li>
-      <li> <a href = "#work_experience"> Work Experience / </a> </li>
-      <li> <a href = "#programming_skills"> Programming Skills / </a> </li>
-      <li> <a href = "#interests_hobbies"> Interests/Hobbies / </a> </li>
-      <li> <a href = "#favorite_song_film_show"> Favorite song/film/TV show / </a> </li>
-      <li> <a href = "#favorite_websites"> Favorite Websites / </a> </li>
+      <li> <a href = "#profile_information"> Profile Information </a> </li>
+      <li> <a href = "#education_summary"> Education </a> </li>
+      <li> <a href = "#work_experience"> Work Experience </a> </li>
+      <li> <a href = "#programming_skills"> Programming Skills </a> </li>
+      <li> <a href = "#interests_hobbies"> Interests/Hobbies </a> </li>
+      <li> <a href = "#favorite_song_film_show"> Favorite song/film/TV show </a> </li>
+      <li> <a href = "#favorite_websites"> Favorite Websites</a> </li>
       <li> <a href = "#course_projects"> Course Projects </a> </li>  
     </ul>
       <p>  </p>
