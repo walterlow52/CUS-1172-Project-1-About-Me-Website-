@@ -16,6 +16,7 @@
       <p>  </p>
   <div id = "profile_information">    
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
+  <img src = "https://user-images.githubusercontent.com/79463731/133340916-e54949bf-1318-4d0f-946f-32ef15bc2602.JPG" width = "500" height = "500">
   <h1 style = "background-color:black;text-align:center"> <span style = "color: white; font-weight: bold"> WALTER LOW  </span> </h1>
   <h2 style = "background-color:black;text-align:center"> Date of Birth: 04/15/2001 </h2>  
   <h2 style = "background-color:black;text-align:center"> Major: Information Technology </h2>
