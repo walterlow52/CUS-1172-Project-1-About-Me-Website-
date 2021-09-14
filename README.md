@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel = "stylesheet" href = "mycss_web.css">
+    <link rel = "stylesheet" href = "http://mydomain.com/../css/mycss_web.css">
     <h4> Section Menu </h4>
     <nav>
     <ul>
