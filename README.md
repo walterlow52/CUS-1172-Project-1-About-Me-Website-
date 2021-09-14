@@ -40,8 +40,10 @@
           h1 {text-align: center;}
       </style>
   <h1> Work Experience/Internships </h1>
-  <ul class = "a"> 
-      <li> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </li>
+      <style>
+          .p0 {font-family: "Times New Roman", serif;>
+  <ul> 
+      <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
   </ul>
   </div>
   <hr>
