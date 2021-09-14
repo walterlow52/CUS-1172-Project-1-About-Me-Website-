@@ -42,6 +42,7 @@
   <h1> Work Experience/Internships </h1>
       <style>
           .p0 {font-family: "Times New Roman", serif;>
+      </style>
   <ul> 
       <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
   </ul>
