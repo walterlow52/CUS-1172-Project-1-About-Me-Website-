@@ -81,6 +81,7 @@
   <hr>
   <div id = "favorite_websites">
   <h1> Favorite website </h1>
+  <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
       <style>
           p.double {border-style: double;}
       </style>
@@ -107,7 +108,6 @@
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
       <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section.  </p>  
 <hr>
-        <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
         <style>
             h4 {text-decoration: underline;}
         </style>
