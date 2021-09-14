@@ -1,12 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
     <link rel = "stylesheet" href = "mycss_web.css">
     <h4> Section Menu </h4>
     <nav>
-    <style>
-        li {display: inline;}
-        </style>
     <ul>
       <li> <a href = "#profile_information"> Profile Information / </a> </li>
       <li> <a href = "#education_summary"> Education / </a> </li>
