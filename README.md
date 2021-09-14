@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel = "stylesheet" href = "http://mydomain.com/../css/mycss_web.css">
+    <link rel = "stylesheet" href = /stylesheet/mycss_web.css">
     <h4> Section Menu </h4>
     <nav>
     <ul>
