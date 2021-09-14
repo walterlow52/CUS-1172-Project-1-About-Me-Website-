@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel = "stylesheet" href = "mycss_web.css">
     <h4> Section Menu </h4>
     <nav>
     <style>
