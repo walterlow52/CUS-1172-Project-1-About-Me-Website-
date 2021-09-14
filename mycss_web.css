@@ -6,10 +6,15 @@ h1 {
   background-color: white;
   text-align: center;
 }
-.font1 {
-  font-family: "Lucida Handwriting", cursive;
+.aqua-background {
+  background-color: aqua;
+  text-align: center;
 }
-ul.a {list-style-type: square;}
+#heading {
+  background-color: black;
+  text-align: center;
+  font-size: 10em;
+}
 </style>
 </head>
 <body>
