@@ -16,6 +16,9 @@ h1 {
   text-align: center;
   font-size: 10em;
 }
+img {
+  -webkit-box-reflect: right;
+}
 </style>
 </head>
 <body>
