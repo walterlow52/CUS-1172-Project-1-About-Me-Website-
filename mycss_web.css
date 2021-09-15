@@ -16,9 +16,13 @@ p {
   text-align: center;
   font-size: 10em;
 }
-#luffyimg {
-  -webkit-box-reflect: right;
-}
+#educationborder {
+  border-radius: 20px;
+  background: yellow;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+}    
 </style>
 </head>
 <body>
