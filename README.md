@@ -113,7 +113,7 @@
             <style>
             h4 {text-decoration: underline;}
         </style>
-        <h4> <p> Rate this HTML website on a scale of 1 to 5: </p> </h4>
+        <h4 id = "heading"> <p> Rate this HTML website on a scale of 1 to 5: </p> </h4>
         <style>
   table, th, td {
   border: 1px solid white;
