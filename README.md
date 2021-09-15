@@ -34,9 +34,6 @@
   </div> 
   <hr>
   <div id = "work_experience">
-      <style>
-          h1 {text-align: center;}
-      </style>
   <h1> Work Experience/Internships </h1>
       <style>
           .p0 {font-family: "Times New Roman", serif;>
@@ -65,9 +62,6 @@
   <hr>
   <div id = "favorite_song_film_show">
   <h1> Favorite song, film, & TV show </h1>
-      <style>
-          .pp {font-family: "Copperplate", fantasy;}
-      </style>
       <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
