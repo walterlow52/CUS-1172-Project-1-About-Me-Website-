@@ -71,10 +71,10 @@
       <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
-      <h2 style = "color: blue"> <p> Favorite Movie/Film </p> </h2>
+      <h2 style = "color: blue"> <p class = "pp"> Favorite Movie/Film </p> </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pSq2JTE49xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>  </p>
-    <h2 style = "color: white"> Favorite TV Show </h2>
+      <h2 style = "color: white"> <p class = "pp"> Favorite TV Show </p> </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <hr>
