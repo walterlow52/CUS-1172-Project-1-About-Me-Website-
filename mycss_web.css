@@ -6,8 +6,8 @@ div {
   margin: 20px;
 }
 h4 {
-  color: black;
-  background-color: green;
+  color: gray;
+  background-color: darkgreen;
   text-align: center;
 }
 ul.ace {
