@@ -32,8 +32,7 @@ p.one {border-style: double; border-color: black;}
 p.double {border-style: double; border-color: yellow;}
 .p1 {font-family: "Lucida Handwriting", cursive;}
 a {color: crimson;}
-img {border-radius: 10px;}
-  border-radius: 
+img {border-radius: 10px;} 
 </style>
 </head>
 <body>
