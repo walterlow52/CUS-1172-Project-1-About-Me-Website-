@@ -25,6 +25,9 @@ h4 {
 }   
 .pp {font-family: "Copperplate", fantasy;}
 .p0 {font-family: "Times New Roman", serif;}
+p.one {border-style: double; border-color: black;}
+p.double {border-style: double; border-color: yellow;}
+.p1 {font-family: "Lucida Handwriting", cursive;}
 </style>
 </head>
 <body>
