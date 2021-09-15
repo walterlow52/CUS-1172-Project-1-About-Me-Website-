@@ -2,20 +2,14 @@
 <html>
 <head>
 <style>
-div {
-  margin: 20px;
-}
+div {margin: 20px;}
 h4 {
   color: white;
   background-color: darkgreen;
   text-align: center;
 }
-ul.ace {
-  list-style-type: square;
-}
-ul li {
-  margin: 10px;
-}
+ul.ace {list-style-type: square;}
+ul li {margin: 10px;}
 .aqua-background {
   background-color: aqua;
   text-align: center;
@@ -38,6 +32,8 @@ p.one {border-style: double; border-color: black;}
 p.double {border-style: double; border-color: yellow;}
 .p1 {font-family: "Lucida Handwriting", cursive;}
 a {color: crimson;}
+img {border-radius: 10px;}
+  border-radius: 
 </style>
 </head>
 <body>
