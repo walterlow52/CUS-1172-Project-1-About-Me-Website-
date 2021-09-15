@@ -12,7 +12,7 @@
 @media print {
   
   .screen_only {
-    display: "DOC/PDF version";
+    display: none;
   }
 }
 
