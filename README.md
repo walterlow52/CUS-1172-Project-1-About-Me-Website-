@@ -5,7 +5,7 @@
     <link rel = "stylesheet" href = "mycss_web.css">
     <h4> <p class = "screen_only"> Section Menu </p> </h4>
     <nav>
-    <ul>
+    <ul class = "ace">
         <li> <a href = "#profile_information"> <p class = "screen_only"> Profile Information </p> </a> </li>
         <li> <a href = "#education_summary">  <p class = "screen_only"> Education </p> </a> </li>
         <li> <a href = "#work_experience"> <p class = "screen_only"> Work Experience </p> </a> </li>
