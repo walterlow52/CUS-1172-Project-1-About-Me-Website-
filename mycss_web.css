@@ -37,6 +37,7 @@ ul li {
 p.one {border-style: double; border-color: black;}
 p.double {border-style: double; border-color: yellow;}
 .p1 {font-family: "Lucida Handwriting", cursive;}
+a {color: crimson;}
 </style>
 </head>
 <body>
