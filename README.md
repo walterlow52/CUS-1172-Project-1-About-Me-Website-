@@ -79,7 +79,7 @@
   <h1> Favorite website </h1>
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
       <style>
-          p.double {border-style: double;}
+          p.double {border-style: double; border-color: yellow;}
       </style>
       <style>
           p.one {border-style: double; border-color: black;}
