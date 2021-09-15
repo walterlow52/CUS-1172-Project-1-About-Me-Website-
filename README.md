@@ -126,7 +126,7 @@
         </table>
         <p>  </p>
         <p>  </p> 
-<form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png" class = "aqua-background"> 
+<form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png"> 
     <div>
       <input type = "radio" id = "5" name = "five" value = "5">
       <label for = "5"> 5 </label> <br>
