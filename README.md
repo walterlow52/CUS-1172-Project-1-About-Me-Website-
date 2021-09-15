@@ -41,7 +41,6 @@
       <style>
           h1 {text-align: center;}
       </style>
-  <div id = "heading">
   <h1> Work Experience/Internships </h1>
       <style>
           .p0 {font-family: "Times New Roman", serif;>
