@@ -81,6 +81,11 @@
   <hr>
   <div id = "favorite_websites">
   <h1> Favorite website </h1>
+      <style>
+      img {
+  -webkit-box-reflect: right;
+}
+      </style>
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
       <style>
           p.double {border-style: double;}
