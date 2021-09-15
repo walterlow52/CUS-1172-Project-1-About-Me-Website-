@@ -2,6 +2,9 @@
 <html>
 <head>
 <style>
+div {
+  margin: 20px;
+}
 h4 {
   color: black;
   background-color: green;
