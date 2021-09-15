@@ -35,9 +35,6 @@
   <hr>
   <div id = "work_experience">
   <h1> Work Experience/Internships </h1>
-      <style>
-          .p0 {font-family: "Times New Roman", serif;>
-      </style>
   <ul> 
       <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
   </ul>
@@ -75,12 +72,6 @@
   <div id = "favorite_websites">
   <h1> Favorite website </h1>
   <img src = "https://cdn.alfabetajuega.com/wp-content/uploads/2019/12/luffy-kjsrg-780x405.jpg" width = "500" height = "400">
-      <style>
-          p.double {border-style: double; border-color: yellow;}
-      </style>
-      <style>
-          p.one {border-style: double; border-color: black;}
-      </style>
     <p class = "one"> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
   <ol>
     <li> <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a> </li>
@@ -94,9 +85,6 @@
   <hr>
   <div id = "course_projects">
   <h1> My projects in this course </h1>
-      <style>
-          .p1 {font-family: "Lucida Handwriting", cursive;}
-      </style>  
     <ul>
       <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
       <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
