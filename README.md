@@ -3,8 +3,7 @@
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "mycss_tablet.css">
     <link rel = "stylesheet" href = "mycss_web.css">
-    <p class = "screen_only"> </p>
-    <h4> Section Menu </h4>
+    <h4> <p class = "screen_only"> Section Menu </p> </h4>
     <nav>
     <ul>
       <li> <a href = "#profile_information"> Profile Information </a> </li>
