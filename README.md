@@ -6,7 +6,7 @@
     <h4> <p class = "screen_only"> Section Menu </p> </h4>
     <nav>
     <ul>
-      <li> <a href = "#profile_information"> Profile Information </a> </li>
+        <li> <a href = "#profile_information"> <p class = "screen_only"> Profile Information </p> </a> </li>
       <li> <a href = "#education_summary"> Education </a> </li>
       <li> <a href = "#work_experience"> Work Experience </a> </li>
       <li> <a href = "#programming_skills"> Programming Skills </a> </li>
