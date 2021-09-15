@@ -33,6 +33,10 @@ p.double {border-style: double; border-color: yellow;}
 .p1 {font-family: "Lucida Handwriting", cursive;}
 a {color: crimson;}
 img {border-radius: 10px;} 
+input {
+  padding: 12px 12px;
+  margin: 8px 0;
+}
 </style>
 </head>
 <body>
