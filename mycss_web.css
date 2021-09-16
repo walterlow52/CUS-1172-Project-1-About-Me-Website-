@@ -31,7 +31,7 @@ ul li {margin: 10px;}
 .p0 {font-family: "Times New Roman", serif;}
 p.one {border-style: double; border-color: black;}
 p.double {border-style: double; border-color: yellow;}
-.p1 {font-family: "Lucida Handwriting", cursive;}
+.p1 {color: aqua; font-family: "Lucida Handwriting", cursive;}
 a {color: crimson;}
 img {border-radius: 10px;} 
 input {
