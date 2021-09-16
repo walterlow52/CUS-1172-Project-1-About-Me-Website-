@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mycss_tablet.css">
+    <link rel = "stylesheet" href = "CSS_responsive_design.css">
     <link rel = "stylesheet" href = "CSS_web_styling.css">
     <h4> <p class = "screen_only"> Section Menu </p> </h4>
     <nav>
