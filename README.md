@@ -99,6 +99,7 @@
             h4 {text-decoration: underline;}
         </style>
         <h4> <p id = "heading"> Rate this HTML website on a scale of 1 to 5: </p> </h4>
+      <img src = "https://image.shutterstock.com/image-vector/thumbs-downstock-vector-260nw-775563916.jpg" width = "300" height = "200">
         <style>
   table, th, td {
   border: 1px solid white;
