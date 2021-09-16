@@ -4,6 +4,11 @@
 <style>
 div {margin: 20px;}
 img [target] {-webkit-box-reflect: right;}
+#hobbie {
+  height: 100px;
+  background-color: black;
+  background-image: linear-gradient(black, white);
+}
 h4 {
   color: white;
   background-color: darkgreen;
