@@ -75,7 +75,7 @@
   <div id = "favorite_websites">
   <h1> Favorite website </h1>
   <div>
-  <img src = "https://www.icegif.com/wp-content/uploads/one-piece-icegif-3.gif" width = "500" height = "400">
+  <img src = "https://www.icegif.com/wp-content/uploads/one-piece-icegif-3.gif" width = "400" height = "400">
       </div>  
       <p class = "one"> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
   <ol>
