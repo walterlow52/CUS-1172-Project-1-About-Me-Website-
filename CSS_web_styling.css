@@ -3,6 +3,7 @@
 <head>
 <style>
 div {margin: 20px;}
+img [target] {-webkit-box-reflect: right;}
 h4 {
   color: white;
   background-color: darkgreen;
