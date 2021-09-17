@@ -3,9 +3,6 @@
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "CSS_responsive_design.css">
     <link rel = "stylesheet" href = "CSS_web_styling.css">
-    <div class="container">
-  <div class="row">
-    <div class="col-sm-4">
     <h4> <p class = "screen_only"> Section Menu </p> </h4>
     <nav>
     <ul class = "ace">
@@ -19,8 +16,6 @@
       <li> <a href = "#course_projects"> <p class = "screen_only"> Course Projects </p> </a> </li>  
     </ul>
       <p>  </p>
-        </div>
-      </div>
   <div id = "profile_information"> </div> 
   <img src = "https://user-images.githubusercontent.com/79463731/133340916-e54949bf-1318-4d0f-946f-32ef15bc2602.JPG" width = "500" height = "500">
   <h1 style = "background-color:black;text-align:center"> <span style = "color: blue; font-weight: bold"> WALTER LOW  </span> </h1>
