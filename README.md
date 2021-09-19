@@ -1,5 +1,3 @@
-# CUS1172 Project 1 
-<!DOCTYPE html>
 <html>
 <head>
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
@@ -151,5 +149,3 @@
       <input type = "submit" value = "submit">
     </div>
         </form>
-    </body>
-  </html>
